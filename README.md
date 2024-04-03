@@ -19,7 +19,7 @@
 </p> 
 <p align="center">
   <a href="https://lastbasket.github.io/PPFT/">
-    <img src="./assets/teaser.png" alt="Logo" width="30%">
+    <img src="./assets/teaser.png" alt="Logo" width="60%">
   </a>
 </p>
 <p align="center">

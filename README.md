@@ -4,7 +4,7 @@
   <p align="center">
     <a href=""><strong>Kei Ikemura</strong></a>
     ·
-    <a href="https://scholar.google.com/citations?user=3Aj75voAAAAJ&hl=en&oi=sra"><strong>Yiming Huang</strong></a>
+    <a href="https://lastbasket.github.io/"><strong>Yiming Huang</strong></a>
     ·
     <a href="https://www.cs.princeton.edu/~fheide/"><strong>Felix Heide</strong></a>
     <br>
@@ -14,7 +14,7 @@
     ·
     <a href="https://chenyanglei.github.io/"><strong>Chenyang Lei</strong></a>
   </p>
-  <h3 align="center"> || <a href="">Paper</a> || <a href="https://lastbasket.github.io/PPFT/">Project Page</a> || </h3>
+  <h3 align="center"> || <a href="https://arxiv.org/abs/2404.04318/">Paper</a> || <a href="https://lastbasket.github.io/PPFT/">Project Page</a> || </h3>
   <div align="center"></div>
 </p> 
 <p align="center">
@@ -146,3 +146,13 @@ This work was supported by the InnoHK program.
 In addition, we thank Zhang _et al._ who kindly open-sourced their [code-base](https://github.com/youmi-zym/CompletionFormer) to the CompletionFormer model, which has been the foundation of our research as well as the code.
 
 ## 7. Cite
+```
+@misc{ikemura2024robust,
+    title={Robust Depth Enhancement via Polarization Prompt Fusion Tuning},
+    author={Kei Ikemura and Yiming Huang and Felix Heide and Zhaoxiang Zhang and Qifeng Chen and Chenyang Lei},
+    year={2024},
+    eprint={2404.04318},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```

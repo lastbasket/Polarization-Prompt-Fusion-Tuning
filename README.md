@@ -25,11 +25,11 @@
 <p align="center">
 
 ## 0. Todo
-- [*] Complete environment setup instruction.
-- [*] Provide dataset download link and pre-processing utilities.
-- [*] Provide model checkpoints and inference instruction.
-- [*] Provide custom training instruction.
-- [*] Provide custom evaluation instruction
+- [x] Complete environment setup instruction.
+- [x] Provide dataset download link and pre-processing utilities.
+- [x] Provide model checkpoints and inference instruction.
+- [x] Provide custom training instruction.
+- [x] Provide custom evaluation instruction
 
 ### 1.1 Installation Steps
 First create a conda environment:

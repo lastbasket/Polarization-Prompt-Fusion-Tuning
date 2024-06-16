@@ -1,0 +1,15 @@
+*.pt
+*.pth
+experiments/*/
+*pycache*/
+__pycache__/
+*/__pycache__/
+*.zip
+build/
+data/
+slurm-*
+archive/
+model/completionformer/deformconv/build
+model/completionformer/deformconv/DCN.egg-info
+model/completionformer/deformconv/dist
+*view?*

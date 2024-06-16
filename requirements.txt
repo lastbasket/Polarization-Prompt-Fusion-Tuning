@@ -1,0 +1,13 @@
+mmcv-full==1.4.4 
+mmsegmentation==0.22.1  
+timm 
+tqdm 
+thop 
+tensorboard 
+tensorboardX 
+opencv-python 
+ipdb 
+h5py 
+ipython 
+Pillow==9.5.0 
+gdown
